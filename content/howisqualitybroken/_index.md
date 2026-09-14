@@ -25,8 +25,8 @@ As a field and practice, quality is broken because it fails to recognize the rea
 
 Although we will not be able to correct course overnight, it is the aim of The Broken Quality Initiative to continue the campaign to understand variation that began with the seminal work of Walter A. Shewhart in the mid-1920s. Having kept industry busy reducing costs and improving quality for over a century, the framework he created is as useful today as it was back then. Building on these efforts, it is the goal of The Broken Quality Initiative to provide engineers and industry with the knowledge and knowhow that makes reducing costs and improving the quality of manufactured products possible. It is our goal to make knowledge of variation as common as calculating the mean.
 
-<div style="text-align: center;">
-    <a href="/thefix/" class="webapp-button">
+<div style="text-align:center">
+    {{< link url="thefix/" class="webapp-button" >}}
         How do we fix the problem?
-    </a>
+    {{< /link >}}
 </div>
