@@ -182,6 +182,13 @@ html {
 }
 
 @media (max-width: 768px) {
+    .products-title {
+        width: 100%;
+        font-size: 1.5rem;
+        padding: 0 1rem;
+        box-sizing: border-box;
+    }
+
     .product-grid {
         grid-template-columns: repeat(2, 1fr);
         gap: 1rem;
