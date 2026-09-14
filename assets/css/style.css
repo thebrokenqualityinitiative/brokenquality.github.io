@@ -175,31 +175,17 @@ html {
     gap: 3rem;
 }
 
-.product-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    max-width: 1100px;
-    margin: 0 auto;
-    gap: 3rem;
+.product-card img {
+    display: block;
+    width: 100%;
+    height: auto;
 }
 
 @media (max-width: 768px) {
     .product-grid {
         grid-template-columns: repeat(2, 1fr);
-        gap: 1.5rem;
+        gap: 1rem;
     }
-}
-
-@media (max-width: 400px) {
-    .product-grid {
-        grid-template-columns: 1fr;
-    }
-}
-
-/* @media (max-width: 768px) {
-    .product-grid {
-        flex-direction: column;
-    } */
 }
 
 /* slide */
