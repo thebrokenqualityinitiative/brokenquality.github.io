@@ -7,7 +7,7 @@ theme = "tella"
   unsafe = true
 
 [params.logo]
-main = "/img/logo/bqi_logo.png"
+main = "img/logo/bqi_logo.png"
 alt = "The Broken Quality Initiative"
 size = "h-15"
 
