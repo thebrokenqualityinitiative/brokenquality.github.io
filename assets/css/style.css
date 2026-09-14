@@ -497,6 +497,17 @@ body.scroll-lock {
     border-radius: 8px;
 }
 
+.quiz-page h1 {
+    color: #d72323;
+    text-align: center;
+}
+
+.quiz-page-title {
+    color: #d72323 !important;
+    text-align: center;
+}
+
+
 .quiz-question {
     margin-bottom: 2.5rem;
 }
@@ -536,8 +547,8 @@ body.scroll-lock {
 }
 
 .quiz-option.selected {
-    border-color: #d72323;
-    background: #f9e8e8;
+    border-color: #000000;
+    background: #E5E7EB;
 }
 
 .quiz-submit {

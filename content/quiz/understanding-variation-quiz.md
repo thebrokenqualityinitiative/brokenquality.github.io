@@ -1,5 +1,6 @@
 ---
-title: "Understanding Variation Quiz"
+title: "The Broken Quality Quiz"
+quiz: true
 ---
 
 The aim of this quiz is to gauge your current knowledge of variation and identify gaps. Based on your performance, recommendations will be made regarding additional resources that will help you deepen your understanding and hone your process improvement skills.
