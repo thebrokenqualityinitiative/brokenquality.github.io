@@ -11,6 +11,17 @@ main = "img/logo/bqi_logo.png"
 alt = "The Broken Quality Initiative"
 size = "h-15"
 
+[params.homepage_meta_tags]
+meta_description = "Teaching the tools and techniques that make manufacturing world-class quality products possible in the 21st century."
+meta_og_title = "The Broken Quality Initiative"
+meta_og_type = "website"
+meta_og_url = "https://brokenquality.com/"
+meta_og_image = "https://brokenquality.com/img/social/homepage.png"
+meta_og_description = "Teaching the tools and techniques that make manufacturing world-class quality products possible in the 21st century."
+meta_twitter_card = "summary_large_image"
+meta_twitter_site = ""
+meta_twitter_creator = ""
+
 [[menus.main]]
 name = "Home"
 pageRef = "/"
