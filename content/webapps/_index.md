@@ -36,3 +36,23 @@ The Taguchi loss calculator is a web application that allows users to put the ot
    rel="noopener noreferrer">
     Launch the Loss Calculator!
 </a>
+
+</div>
+
+---
+
+## Honest Process Capability Analysis 
+
+The Honest Process Capability Analysis web application allows users to calculate the process capability indexes by selecting an existing dataset or uploading one of their own. The app calculates the four standard indexes in common use today, capability ratio (Cp), centered capability ratio (Cpk), performance ratio (Pp), and centered performance ratio (Ppk). The overview tab provides a brief but detailed discussion of each of the four indices and the formulas tab outlines the equations used in the calculation of each index, as well as the terms that compose them. In addition to calculating the indices, the app calculates the fraction noconforming, biased point estimate, and the upper and lower interval estimate for the biased point estimate using the Agresti-Coull Interval Estimate method.
+
+<div class="video-spacer">
+    {{< video src="videos/process-capability-demo.mp4" >}}
+</div>
+
+<div style="text-align: center;">
+<a href="https://process-capability-analysis.streamlit.app"
+   class="webapp-button"
+   target="_blank"
+   rel="noopener noreferrer">
+    Launch the Honest Capability App!
+</a>
