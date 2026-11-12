@@ -70,36 +70,36 @@ body {
 
 .home-feature {
     position: relative;
+    max-width: 800px;     
+    margin: 1rem auto 2.5rem;
     text-align: center;
-    margin: 1rem auto;
 }
 
 .home-feature-image {
     display: block;
-    max-width: 800px;
     width: 100%;
     height: auto;
-    margin: 0 auto 1.5rem;
+    margin: 0;            
 }
 
 .home-feature-button {
-  position: absolute;
-  z-index: 9999;
-  top: 77%;
-  left: 41.5%;
-  transform: translateX(-50%);
-  width: fit-content;
-  padding: 12px 24px;
-  background: #d72323;
-  color: white;
-  text-decoration: none;
-  border-radius: 4px;
-  font-weight: bold;
-  font-size: 20px;
-}
+    position: absolute;
+    z-index: 10;
+    top: var(--btn-top, 77%);
+    left: var(--btn-left, 41.5%);
+    transform: translateX(-50%);
+    width: fit-content;
+    padding: 12px 24px;
+    background: #d72323;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 20px;
 
-.home-feature-button:hover {
-  background-color: #B91C1C;
+    &:hover {
+        background-color: #B91C1C;
+    }
 }
 
 /* Quote */
