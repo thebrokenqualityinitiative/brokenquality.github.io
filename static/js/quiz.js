@@ -649,7 +649,7 @@ document.querySelectorAll(".quiz").forEach((quiz) => {
                 {
                     title: "The Needle & the Cannula",
                     description: "This FREE essay is a case study in the application of a novel SPC methodology called network analysis.",
-                    url: "https://store.brokenquality.com/b/need-cannula-case-study"
+                    url: "https://store.brokenquality.com/b/needle-cannula-case-study"
                 },
                 {
                     title: "The Taguchi Loss Function",
